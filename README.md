@@ -1,8 +1,8 @@
 # probilein
 
-Adam
-Berta
-Conny
-Daniel
-Emanuel
-Florentine
+* Adam arbeitet abens.
+* Berta backt.
+* Conny chillt.
+* Daniel döst.
+* Emanuel erntet.
+* Florentine flötet.
