@@ -1,8 +1,11 @@
 # probilein
 
 * Adam arbeitet abens.
-* Berta backt.
+* Berta backt besonders.
 * Conny chillt.
-* Daniel döst.
-* Emanuel erntet.
-* Florentine flötet.
+* Daniel döst durstig.
+* Emanuel erntet eigene Ernte.
+* Florentine flötet fleissig.
+* Gertrud giesst Geranien.
+* Herbert hasst Hosen.
+* Ida isst Ingwerkäse.
